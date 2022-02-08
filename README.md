@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anupam Singh</h1>
-<h3 align="center">frontend developer from India</h3>
+<h3 align="center">I am frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-singh16&label=Profile%20views&color=0e75b6&style=flat" alt="anupam-singh16" /> </p>
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/anupam-singh-845321217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam-singh-845321217" height="30" width="40" /></a>
 <a href="https://fb.com/anupam singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupam singh" height="30" width="40" /></a>
 <a href="https://instagram.com/anupam_singh_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupam_singh_16" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ak vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ak vlogs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/as vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="as vlogs" height="30" width="40" /></a>
 <a href="https://discord.gg/AS.#3055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AS.#3055" height="30" width="40" /></a>
 </p>
 
